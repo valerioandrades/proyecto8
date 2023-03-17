@@ -14,7 +14,7 @@
 
 - 📫 Podes comunicarte conmigo a mi mail **valerio_andrades@hotmail.com**
 
-### Continuan las publicaciones!! En este repositorio realizo una APP utilizando nodeJS.
+### Continuan las publicaciones!! En este repositorio realizo una app que utiliza API REST.
 
 - 👨‍💻 proyecto 8: Proyecto con API REST.
 
