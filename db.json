@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "jorge muscardi",
+      "email": "jorgemuscardi@gmail.com",
+      "telefono": "35180121212",
+      "empresa": "movistar",
+      "id": 2
+    },
+    {
+      "nombre": "maximo afejotape",
+      "email": "maximoaefejotape@gmail.com",
+      "telefono": "3514023231",
+      "empresa": "tuenti",
+      "id": 3
+    },
+    {
+      "nombre": "miguel guevara",
+      "email": "miguel.guevara1@outlook.com",
+      "telefono": "3434545127",
+      "empresa": "Conersa",
+      "id": 4
+    },
+    {
+      "nombre": "gerardo valerio javier",
+      "email": "valerio_andrades@hotmail.com",
+      "telefono": "03518012477",
+      "empresa": "personal",
+      "id": 5
+    }
+  ]
+}
